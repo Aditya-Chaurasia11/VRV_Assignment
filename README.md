@@ -2,7 +2,7 @@
 
 A modern, responsive Role-Based Access Control (RBAC) dashboard built with React, TypeScript, and Tailwind CSS. This application provides a comprehensive interface for managing users, roles, and permissions in a secure and user-friendly way.
 
-### Demo - 
+### Demo - https://vrv-assignment-rho.vercel.app/
 ### Resume - https://drive.google.com/file/d/1gzNzpLq2HnZJPnLcmKoZhqvuaa1n_cD5/view?usp=drive_link
 
 
