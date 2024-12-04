@@ -36,7 +36,7 @@ A modern, responsive Role-Based Access Control (RBAC) dashboard built with React
 
 - **React** 
 - **TypeScript** 
-- **Tailwind CSS** - Utility-first CSS framework
+- **Tailwind CSS** 
 - **React Hot Toast** - Toast notifications
 
 ## Getting Started
